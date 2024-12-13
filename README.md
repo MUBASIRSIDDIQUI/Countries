@@ -61,7 +61,6 @@ Countries data is fetched from: https://countriesnow.space/api/v0.1/countries/fl
 Mubasir Siddiqui
 
 ## License
-*Add your license information here*
 
 ## Acknowledgments
 - Alamofire
